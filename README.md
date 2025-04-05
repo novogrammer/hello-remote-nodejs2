@@ -2,7 +2,11 @@
 
 ローカルにNode.jsをインストールせずに開発してみる。
 
-Dev Containersを使って初めから環境構築。
+`Dev Containers`を使って初めから環境構築。
+
+
+ `Dev Containers` 使わずに環境構築してみたリポジトリ
+https://github.com/novogrammer/hello-remote-nodejs
 
 
 ## 前提
