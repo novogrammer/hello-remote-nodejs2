@@ -1,4 +1,4 @@
-# Hello Remote Node.js
+# Hello Remote Node.js 2
 
 ローカルにNode.jsをインストールせずに開発してみる。
 
