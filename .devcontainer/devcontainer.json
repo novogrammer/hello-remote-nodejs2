@@ -1,0 +1,8 @@
+
+{
+	"name": "Docker from Docker Compose",
+  "dockerComposeFile": ["../compose.dev.yaml", "compose.yaml"],
+	"service": "app",
+	"workspaceFolder": "/app"
+
+}
